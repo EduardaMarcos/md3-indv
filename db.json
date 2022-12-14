@@ -1,0 +1,47 @@
+{
+    "produtos de cabelo": [
+      {
+        "id": 1,
+        "nome": "Creme de pentear",
+        "marca": "salon line",
+        "valor": "13,99",
+        "descrição":"Creme de pentear de coco com queratina"
+      },
+      {
+        "id": 2,
+        "nome": "Shampoo",
+        "marca":"Pantene",
+        "valor": "11,99",
+        "descrição":"Shampoo reconstrutor para qualquer tipo de cabelo"
+      },
+      {
+        "id": 3,
+        "nome": "Condicionador",
+        "marca":"Pantene",
+        "valor": "11,99",
+        "descrição":"Condicionador reconstrutor para qualquer tipo de cabelo"
+      },
+      {
+        "id": 4,
+        "nome": "Kit cronograma capilar",
+        "marca":"Dabelle",
+        "valor": "53,75",
+        "descrição":"Conjunto de creme para cronograma capilar contendo nutrição, hidratação e resconstrução."
+      },
+      {
+        "id": 5,
+        "nome": "Pomada modeladora",
+        "marca":"Master hair",
+        "valor": "19,90",
+        "descrição":"Pomada modeladora para tranças"
+      },
+      {
+        "id": 6,
+        "nome": "Gel",
+        "marca":"Eco",
+        "valor": "89,90",
+        "descrição":"Gel para todos os tipos de cabelo."
+      }
+    ]
+  }
+  
