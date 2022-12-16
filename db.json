@@ -1,43 +1,47 @@
 {
-    "produtos": [
+    "creme": [
       {
         "id": 1,
-        "nome": "Creme de pentear",
+        "produto": "Creme de pentear",
         "marca": "salon line",
         "valor": "13,99",
         "descrição":"Creme de pentear de coco com queratina"
-      },
+      }
+        ],
+      "shampoo": [
       {
         "id": 2,
-        "nome": "Shampoo",
+        "produto": "Shampoo",
         "marca":"Pantene",
         "valor": "11,99",
         "descrição":"Shampoo reconstrutor para qualquer tipo de cabelo"
-      },
-      {
+      }
+        ],
+       "creme": [{
         "id": 3,
-        "nome": "Condicionador",
+        "produto": "Condicionador",
         "marca":"Pantene",
         "valor": "11,99",
         "descrição":"Condicionador reconstrutor para qualquer tipo de cabelo"
-      },
-      {
+      }
+       ],
+      "kit": [{
         "id": 4,
-        "nome": "Kit cronograma capilar",
+        "produto": "Kit cronograma capilar",
         "marca":"Dabelle",
         "valor": "53,75",
         "descrição":"Conjunto de creme para cronograma capilar contendo nutrição, hidratação e resconstrução."
       },
-      {
+      "pomada": [{
         "id": 5,
-        "nome": "Pomada modeladora",
+        "produto": "Pomada modeladora",
         "marca":"Master hair",
         "valor": "19,90",
         "descrição":"Pomada modeladora para tranças"
-      },
-      {
+      }],
+      "gel":[{
         "id": 6,
-        "nome": "Gel",
+        "produto": "Gel",
         "marca":"Eco",
         "valor": "89,90",
         "descrição":"Gel para todos os tipos de cabelo."
