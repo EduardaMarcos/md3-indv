@@ -209,6 +209,102 @@
                 "descricao": "Fralda TENA Dermacare possui dupla camada e um núcleo de alta absorção que rapidamente retém a urina promovendo segurança em um produto hipoalergênico."
             }
 
+        ],
+    
+        "ProtetorSundown": [
+            {
+                "id": 21,
+                "produto": "Protetor Solar Corporal Sundown Praia e Piscina FPS 30",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2F7%2F8%2F7891010096496_h.jpg&w=256&q=75",
+                "marca":"Sundown",
+                "valor": "R$ 38,79",
+                "descricao": "O Sundown Praia e Piscina FPS 30 é um protetor solar que oferece tripla proteção, protegendo a pele contra os raios UVA+UVB, o cloro das piscinas e a água salgada do mar."
+            }
+
+        ],
+    
+        "ProtetorBiore": [
+            {
+                "id": 22,
+                "produto": "Protetor Solar Bioré Aqua Rich Watery Essence FPS 50",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fp%2Fr%2Fprotetor_solar_facial_e_corporal_bior_aqua_rich_fps50_50g_4901301363183.jpg&w=256&q=75",
+                "marca":"Bioré",
+                "valor": "R$ 60,59",
+                "descricao": "Bioré Aqua Rich Watery Essence é um protetor solar que não pode faltar no seu dia a dia. Produzido com uma textura macia e revigorante, você protege a sua pele contra os raios solares sem deixar de aproveitar a vida com tranquilidade."
+            }
+
+        ],
+    
+        "HidratanteNeeds": [
+            {
+                "id": 23,
+                "produto": "Hidratante Facial Needs Face Vita C 50g",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fh%2Fi%2Fhidratante-facial-needs-face-vita-c-50g-1.jpg&w=256&q=75",
+                "marca":"Needs",
+                "valor": "R$ 27,99",
+                "descricao": "O Needs Vita C é um hidratante desenvolvido especialmente para hidratar, revitalizar e nutrir a pele do rosto."
+            }
+
+        ],
+    
+        "HidratanteNivea": [
+            {
+                "id": 24,
+                "produto": "Loção Hidratante Corporal Nivea Milk Hidratação Profunda Pele Seca",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fl%2Fo%2Flocao-hidratante-corporal-nivea-milk-hidratacao-profunda-1.jpg&w=256&q=75",
+                "marca":"Nivea",
+                "valor": "R$ 23,49",
+                "descricao": "A Loção Nivea Milk Hidratação Profunda é um hidratante corporal capaz de hidratar profundamente peles secas e extrassecas por até 48 horas."
+            }
+
+        ],
+    
+        "AguaMicelar": [
+            {
+                "id": 25,
+                "produto": "Água Micelar L'Oréal Paris Solução de Limpeza 5 em 1.",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fa%2Fg%2Fagua-micelar-loreal-paris-solucao-de-limpeza-5-em-1-200ml-02.jpg&w=256&q=75",
+                "marca":"L'Oréal",
+                "valor": "R$ 32,99",
+                "descricao": "A Água Micelar da L’Oréal Paris é um limpador facial com múltiplos benefícios eficazes para a sua pele: limpa, demaquila, purifica, suaviza e reequilibra."
+            }
+
+        ],
+    
+        "Demaquilante": [
+            {
+                "id": 26,
+                "produto": "Demaquilante Bioré Make Up Remover",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fb%2Fi%2Fbior_leo_de_limpeza_demaquilante_150ml_4901301756305.jpg&w=256&q=75",
+                "marca":"Bioré",
+                "valor": "R$ 62,92",
+                "descricao": "A Água Micelar da L’Oréal Paris é um limpador facial com múltiplos benefícios eficazes para a sua pele: limpa, demaquila, purifica, suaviza e reequilibra."
+            }
+
+        ],
+    
+        "Minancora": [
+            {
+                "id": 27,
+                "produto": "Minancora Pomada",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fm%2Fi%2Fminancora.jpg&w=256&q=75",
+                "marca":"Minancora",
+                "valor": "R$ 14,99",
+                "descricao": "Pomada Minancora é um cicatrizante, antisséptico e adstringente para tratar e prevenir doenças da pele como espinhas, frieiras, escaras e como coadjuvante no tratamento de picadas de insetos, urticárias e pequenos ferimentos superficiais."
+            }
+
+        ],
+    
+        "Tonico": [
+            {
+                "id": 28,
+                "produto": "Tônico Facial Adstringente Needs Pele Oleosa e Acneica",
+                "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Ft%2Fo%2Ftonico-facial-adstringente-needs-pele-oleosa-e-acneica-com-200ml-1.jpg&w=256&q=75",
+                "marca":"Needs",
+                "valor": "R$ 22,99",
+                "descricao": "Uma Loção Adstringente desenvolvida para peles oleosas ou acneicas, que tonifica a pele do rosto."
+            }
+
         ]
 
     
